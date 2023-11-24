@@ -1,0 +1,29 @@
+PODS:
+  - Flutter (1.0.0)
+  - tiktok_plugin (0.0.1):
+    - Flutter
+    - TikTokOpenSDK
+  - TikTokOpenSDK (5.0.0)
+
+DEPENDENCIES:
+  - Flutter (from `Flutter`)
+  - tiktok_plugin (from `.symlinks/plugins/tiktok_plugin/ios`)
+
+SPEC REPOS:
+  trunk:
+    - TikTokOpenSDK
+
+EXTERNAL SOURCES:
+  Flutter:
+    :path: Flutter
+  tiktok_plugin:
+    :path: ".symlinks/plugins/tiktok_plugin/ios"
+
+SPEC CHECKSUMS:
+  Flutter: 50d75fe2f02b26cc09d224853bb45737f8b3214a
+  tiktok_plugin: 5b266930f90b074544a552473fb1c3ea62048026
+  TikTokOpenSDK: a63564ea4dc1fabc56352bf7aa9ddc386cdb63b6
+
+PODFILE CHECKSUM: aafe91acc616949ddb318b77800a7f51bffa2a4c
+
+COCOAPODS: 1.11.2
